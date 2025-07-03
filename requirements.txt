@@ -1,0 +1,4 @@
+streamlit
+tweepy
+textblob
+pandas
